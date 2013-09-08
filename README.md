@@ -1,8 +1,8 @@
 witches-online
 ==============
 
-A free mmo
-
-4 clases of charcters
-many NPC´s
+A free mmo\n
+\n
+4 clases of charcters\n
+many NPC´s\n
 a great World to explore
